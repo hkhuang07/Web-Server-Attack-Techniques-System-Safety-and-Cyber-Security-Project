@@ -182,7 +182,6 @@ WAF Bypass involves using obfuscation, encoding, and parsing discrepancies to by
 ## 4. CONCLUSION AND RECOMMENDATIONS
 
 ### 4.1. Key Security Recommendations
-
 1.  **Adopt the OWASP Top 10** as a baseline requirement for all web projects.
 2.  **Utilize Prepared Statements** (parameterization) universally for all database interactions.
 3.  **Implement Content Security Policy (CSP)** and **Output Encoding** to mitigate XSS risks.
@@ -195,5 +194,47 @@ WAF Bypass involves using obfuscation, encoding, and parsing discrepancies to by
 ## REFERENCES
 
 [1] "OWASP Top Ten | OWASP Foundation." Accessed: Oct. 06, 2025. [Online]. Available: https://owasp.org/www-project-top-ten/
-
-... (Citations omitted for brevity)
+1]	“An Toàn Thông Tin Là Gì?” Accessed: Sept. 09, 2025. [Online]. Available: https://itsystems.vn/an-toan-thong-tin-la-gi/
+[2]	“An toàn thông tin là gì? 4 Nội dung cần biết.” Accessed: Sept. 09, 2025. [Online]. Available: https://vnce.vn/an-toan-thong-tin-la-gi
+[3]	“Các Lỗ Hổng Bảo Mật của Website bị HACKER Tấn Công Nhất.” Accessed: Sept. 09, 2025. [Online]. Available: https://lanit.com.vn/cac-lo-hong-bao-mat-cua-website-bi-hacker-loi-dung-tan-cong-nhieu-nhat.html
+[4]	“XSS là gì? Kỹ thuật tấn công XSS, cách ngăn chặn hiệu quả.” Accessed: Sept. 09, 2025. [Online]. Available: https://vietnix.vn/xss-la-gi/
+[5]	“SQL Injection là gì? Cách giảm thiểu và phòng ngừa SQL Injection.” Accessed: Sept. 09, 2025. [Online]. Available: https://topdev.vn/blog/sql-injection/
+[6]	FPT C. ty C. phần B. lẻ K., “SQL Injection là gì? Độ nguy hiểm và cách phòng tránh hiệu quả.” Accessed: Sept. 09, 2025. [Online]. Available: https://fptshop.com.vn/tin-tuc/danh-gia/sql-injection-la-gi-159279
+[7]	T. Dang, “DDoS là gì và cách ngăn chặn các loại tấn công DDoS Server,” DDoS là gì và cách ngăn chặn các loại tấn công DDoS Server. Accessed: Sept. 09, 2025. [Online]. Available: https://www.vnetwork.vn/news/ddos-la-gi-va-cach-ngan-chan-cac-loai-tan-cong-ddos-server/
+[8]	admininsho, “Tam giác bảo mật CIA (tính bảo mật, tính toàn vẹn, tính sẵn sàng) là gì?,” Tỷ lệ đạt chứng nhận 100%. Accessed: Oct. 04, 2025. [Online]. Available: https://3ac.vn/tam-giac-bao-mat-cia-tinh-bao-mat-tinh-toan-ven-tinh-san-sang-la-gi/
+[9]	Admin, “Hacker là gì? Phân biệt 7 loại hacker phổ biến nhất,” TopCV Blog. Accessed: Oct. 04, 2025. [Online]. Available: https://blog.topcv.vn/hacker-la-gi/
+[10]	“The OWASP Top Ten 2025.” Accessed: Oct. 04, 2025. [Online]. Available: https://www.owasptopten.org/
+[11]	“The Cyber Kill Chain: A Complete Guide for 2025 - RSVR Technologies PVT LTD.” Accessed: Oct. 06, 2025. [Online]. Available: https://rsvrtech.com/blog/cyber-kill-chain-guide-2025/
+[12]	“(12) The Cyber Kill Chain Explained: Applying the Cyber Kill Chain in 2025 | LinkedIn.” Accessed: Oct. 06, 2025. [Online]. Available: https://www.linkedin.com/pulse/cyber-kill-chain-explained-applying-2025-strongbox-it-pvt-ltd-s9lzf/
+[13]	“Cyber Kill Chain Breakdown: Command and Control | Alert Logic.” Accessed: Oct. 06, 2025. [Online]. Available: https://www.alertlogic.com/blog/cyber-kill-chain-breakdown-understanding-stage-six-command-and-control/
+[14]	“TOP 10 LỖ HỔNG BẢO MẬT WEBSITE PHỔ BIẾN NHẤT - VNCS Global.” Accessed: Oct. 04, 2025. [Online]. Available: https://vncsglobal.vn/top-10-lo-hong-bao-mat-website-pho-bien-nhat/
+[15]	“OWASP Top Ten | OWASP Foundation.” Accessed: Oct. 04, 2025. [Online]. Available: https://owasp.org/www-project-top-ten/
+[16]	“SQL Injection.” Accessed: Oct. 04, 2025. [Online]. Available: https://viblo.asia/p/sql-injection-MgNeWWbKeYx
+[17]	“Breaking down the 5 most common SQL injection attacks,” Pentest-Tools.com. Accessed: Oct. 04, 2025. [Online]. Available: https://pentest-tools.com/blog/sql-injection-attacks
+[18]	“What is SQL Injection (SQLi) and How to Prevent Attacks,” Acunetix. Accessed: Oct. 04, 2025. [Online]. Available: https://www.acunetix.com/websitesecurity/sql-injection/
+[19]	“What is Cross-site Scripting (XSS): prevention and fixes.” Accessed: Oct. 04, 2025. [Online]. Available: https://www-acunetix-com.translate.goog/websitesecurity/cross-site-scripting/?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=tc
+[20]	“Lỗ hổng Cross-Site Scripting (XSS).” Accessed: Oct. 04, 2025. [Online]. Available: https://viblo.asia/p/lo-hong-cross-site-scripting-xss-GrLZDOY3Kk0
+[21]	“Tổng quan một số kỹ thuật khai thác lỗ hổng bảo mật Web (P1).” Accessed: Oct. 05, 2025. [Online]. Available: https://viblo.asia/p/tong-quan-mot-so-ky-thuat-khai-thac-lo-hong-bao-mat-web-p1-gGJ59MOP5X2
+[22]	Aj, “CSRF, XSS, SSRF: The Attacks That Still Break the Web in 2025,” Medium. Accessed: Oct. 06, 2025. [Online]. Available: https://levelup.gitconnected.com/csrf-xss-ssrf-the-attacks-that-still-break-the-web-in-2025-6e2774c62ad6
+[23]	“Kỹ Thuật Tấn Công XSS và Cách Ngăn Chặn - Viblo.” Accessed: Oct. 05, 2025. [Online]. Available: https://viblo.asia/p/ky-thuat-tan-cong-xss-va-cach-ngan-chan-YWOZr0Py5Q0
+[24]	V. IDC, “XSS là gì? Cách kiểm tra và ngăn chặn tấn công hiệu quả,” viettelidc.com.vn. Accessed: Oct. 05, 2025. [Online]. Available: https://viettelidc.com.vn/tin-tuc/xss-la-gi-cach-kiem-tra-va-ngan-chan
+[25]	“What is a Path Traversal Attack? | Directory Traversal Attack.” Accessed: Oct. 06, 2025. [Online]. Available: https://www.contrastsecurity.com/glossary/path-traversal-or-directory-traversal
+[26]	“What is directory traversal? | Tutorial & examples,” Snyk Learn. Accessed: Oct. 06, 2025. [Online]. Available: https://learn.snyk.io/lesson/directory-traversal/
+[27]	“What is a Directory or Path Traversal? How to Avoid These Attacks.” Accessed: Oct. 06, 2025. [Online]. Available: https://jetpack-com.translate.goog/resources/path-directory-traversal/?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=tc
+[28]	“What Is a DDoS Attack? Distributed Denial of Service,” Cisco. Accessed: Oct. 19, 2025. [Online]. Available: https://www.cisco.com/c/en_uk/products/security/what-is-a-ddos-attack.html
+[29]	“Ransom Denial of Service (RDoS) Attack,” Check Point Software. Accessed: Oct. 19, 2025. [Online]. Available: https://www.checkpoint.com/cyber-hub/cyber-security/what-is-denial-of-service/ransom-denial-of-service-rdos-attack/
+[30]	J. Sheehan, “Understand the Difference: DoS vs. DDoS Attacks,” SynchroNet. Accessed: Oct. 19, 2025. [Online]. Available: https://synchronet.net/dos-vs-ddos-attacks/
+[31]	“Attack types,” Prolexic Analytics API. Accessed: Oct. 19, 2025. [Online]. Available: https://techdocs.akamai.com/prolexic/reference/attack-types
+[32]	“What Is a SYN Flood Attack?,” Check Point Software. Accessed: Oct. 19, 2025. [Online]. Available: https://www.checkpoint.com/cyber-hub/cyber-security/what-is-a-ddos-attack/what-is-a-syn-flood-attack/
+[33]	“What is a DDoS Attack? Definition, Meaning, Types,” /. Accessed: Oct. 19, 2025. [Online]. Available: https://www.kaspersky.com/resource-center/threats/ddos-attacks
+[34]	“Azure DDoS Protection and Mitigation Services | Microsoft Azure.” Accessed: Oct. 19, 2025. [Online]. Available: https://azure.microsoft.com/en-us/products/ddos-protection
+[35]	“The Impact of Cybersecurity Breaches on Firm’s Market Value: the Case of the USA,” ResearchGate, Sept. 2025, doi: 10.51176/1997-9967-2023-4-200-219.
+[36]	“OWASP Top 10: Cheat Sheet of Cheat Sheets.” Accessed: Oct. 19, 2025. [Online]. Available: https://www.oligo.security/academy/owasp-top-10-cheat-sheet-of-cheat-sheets
+[37]	“Playbook-The-Network-Ops-DDoS-Playbook-new.pdf.” Accessed: Oct. 19, 2025. [Online]. Available: https://www.imperva.com/resources/ebooks/Playbook-The-Network-Ops-DDoS-Playbook-new.pdf
+[38]	E. Rocha, “Forrester WaveTM DDoS Mitigation Solutions, Q1 2021,” GlobalDots. Accessed: Oct. 19, 2025. [Online]. Available: https://www.globaldots.com/resources/ebooks/forrester-wave-ddos-mitigation-solutions-q1-2021/
+[39]	“DDoS Protection for Service Providers - DDoS Mitigation Company.” Accessed: Oct. 19, 2025. [Online]. Available: https://www.netscout.com/solutions/service-provider-ddos-protection
+[40]	“Applied Cryptography,” Schneier on Security. Accessed: Oct. 20, 2025. [Online]. Available: https://www.schneier.com/books/applied-cryptography/
+[41]	“Brute Force Attack | OWASP Foundation.” Accessed: Oct. 20, 2025. [Online]. Available: https://owasp.org/www-community/attacks/Brute_force_attack
+[42]	V. W. Ng and S. R. Sanders, “A High-Efficiency Wide-Input-Voltage Range Switched Capacitor Point-of-Load DC–DC Converter,” IEEE Trans. Power Electron., vol. 28, no. 9, pp. 4335–4341, Sept. 2013, doi: 10.1109/TPEL.2012.2224887.
+[43]	“2025 Data Breach Investigations Report,” Verizon Business. Accessed: Oct. 20, 2025. [Online]. Available: https://www.verizon.com/business/resources/reports/dbir/
+[44]	“Pentest là gì? Những điều cần biết về Kiểm thử xâm nhập.” Accessed: Oct. 21, 2025. [Online]. Available: https://cystack.net/vi/blog/pentest-la-gi
